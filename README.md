@@ -24,7 +24,7 @@ ruby toy_robot.rb
 - REPORT
 - QUIT
 
-### Rnunning Tests
+### Running Tests
 
 ```
 rspec
