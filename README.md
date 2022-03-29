@@ -1,5 +1,35 @@
 # Toy Robot
 
+## Usage
+
+### Prepare
+```
+bundle install
+```
+
+### Run
+```
+ruby toy_robot.rb
+```
+
+### Interact
+
+#### Commands
+
+- PLACE X,Y,F (example with arguments: `PLACE 1,2,NORTH`)
+- UNPLACE
+- MOVE
+- LEFT
+- RIGHT
+- REPORT
+- QUIT
+
+### Rnunning Tests
+
+```
+rspec
+```
+
 #### What is this ?
 
 Toy Robot is a ruby coding exercise that we get our potential candidates  complete for us (Mable) to understand their capabilities.  
